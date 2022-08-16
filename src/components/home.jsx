@@ -9,12 +9,12 @@ export default function Home() {
 pour vous mener au succès professionnel.</p>
 </div>
 <div className='card'>
-<Card className='incard'/>
-<Card/>
-<Card/>
-<Card/>
-<Card/>
-<Card/>
+<Card img={"https://3wa.fr/wp-content/uploads/2020/03/card2.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
+<Card img={"https://3wa.fr/wp-content/uploads/2020/03/card8.svg"} title={"Certifiées et reconnues"} parag={"car l'ambition est le seul pré-requis"}/>
+<Card img={"https://3wa.fr/wp-content/uploads/2020/03/card4.svg"} title={"Testez nos cours gratuitement"} parag={"depuis chez vous et dès maintenant !"}/>
+<Card img={"https://3wa.fr/wp-content/uploads/2020/03/card5.svg"} title={"Osez la reconversion professionnelle"} parag={"car l'ambition est le seul pré-requis"}/>
+<Card img={"https://3wa.fr/wp-content/uploads/2020/03/card6.svg"} title={"Spécialisez vous davantage"} parag={"avec des programmes pour tous niveaux"}/>
+<Card img={"https://3wa.fr/wp-content/uploads/2020/03/card9.svg"} title={"1er bootcamp en France"} parag={"4500 alumni formés depuis 2012"}/>
 </div>
 {/* <div className='div'>
   <div>

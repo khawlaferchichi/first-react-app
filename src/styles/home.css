@@ -1,0 +1,27 @@
+.card{
+    width: 50%;
+    margin:0 auto;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    text-align: center;
+  
+    justify-content: space-between;
+    padding: 5%;
+}
+
+
+.paragraphes{
+  
+    width: 60%;
+    margin: 1% auto;
+
+}
+.paragraphe{
+    text-align: center;
+}
+ img:hover{
+    background-color: aquamarine;
+    border-radius: 50%;
+    padding: 2%;
+}
